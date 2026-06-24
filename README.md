@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gericht | Restaurant Landing Page 2 - React, Vite, TypeScript, Framer Motion, CSS Modules, Frontend Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -378,3 +379,6 @@ If you have any questions or want to share your work, reach out via GitHub or my
 **Enjoy building and learning!** 🚀
 
 Thank you! 😊
+=======
+# PRODIGY_WD_01
+>>>>>>> b4deee01cedef4c3a3a046b467804a51238f5ded
